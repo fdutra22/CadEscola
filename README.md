@@ -1,0 +1,2 @@
+# CadEscola
+Teste Api MVC
